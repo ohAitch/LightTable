@@ -70,3 +70,12 @@
 .CodeMirror.cm-keymap-fat-cursor div.CodeMirror-cursors {
   z-index: 3;
 }
+
+/* XX  in user.css */
+
+.cm-s-default span.cm-header {color: #ea7; font-weight: normal;} 
+.cm-s-default span.cm-meta {color: #ea7; }
+.cm-s-default span.cm-atom { color: #caf; }
+.cm-s-default span.cm-operator {color: #ffa;}
+.CodeMirror .CodeMirror-overwrite div.CodeMirror-cursor { border-left: 2px dotted; }
+
